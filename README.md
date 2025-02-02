@@ -13,7 +13,11 @@ Finger print - event id : 1004
 The above event IDs only indicates successfull interaction of biometric service with respective sensor. Although these events are recorded when a user logs into a device, the sole presence of these events does not indicate a login. Third party apps can also use Windows Hello API that would record these events. We can compare these events to 4624 Logon events in Windows Logs > Security. This correlation can help us determine if fingerprint / face ID were used for a logon.
 
 Facial Recognition:
-<img width="628" alt="image" src="https://github.com/user-attachments/assets/d139801d-d774-4c57-a14b-a056925ca8b3" />
+
+<img width="613" alt="image" src="https://github.com/user-attachments/assets/eb4bff1c-1c0f-43be-8b83-944d94db146b" />
+
+
+
 
 
 
