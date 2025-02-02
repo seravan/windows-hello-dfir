@@ -14,7 +14,8 @@ The above event IDs only indicates successfull interaction of biometric service 
 
 Facial Recognition:
 
-<img width="613" alt="image" src="https://github.com/user-attachments/assets/eb4bff1c-1c0f-43be-8b83-944d94db146b" />
+<img width="613" alt="image" src="https://github.com/user-attachments/assets/eb4bff1c-1c0f-43be-8b83-944d94db146b" /> <img width="625" alt="image" src="https://github.com/user-attachments/assets/b9aa2349-13f0-4b47-a700-ec2ad5ce3874" />
+
 
 
 
